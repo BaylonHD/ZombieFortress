@@ -1,0 +1,10 @@
+public class REINFORCED_WINDOW extends TileObject{
+ 
+- public REINFORCED_WINDOW(int X, int Y) {
+-  super(X, Y, 7);
++        public REINFORCED_WINDOW(int X, int Y) {
++                super(X, Y, 7);
++         }
+  }
+- 
+-}
